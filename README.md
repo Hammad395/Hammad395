@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Hammad Ali
-- ✨ I'm a web developer with working experience in React.js, Next.js, Gatsby.js, Astro.js and T3Stack
+- ✨ I'm a web developer with working experience in React.js, Next.js, Gatsby.js, Astro.js, and T3Stack
 - 👀 I’m interested in BlockChain, CryptoGraphy, Ethereum, Web3.0, ML, Data Science  
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on BlockChain and Web Development
